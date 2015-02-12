@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yc_ui_fragment_qzone</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="skin_tabbar_icon_auth">动态</string>
+    <string name="skin_tabbar_icon_at">与我相关</string>
+    <string name="skin_tabbar_icon_space">我的空间</string>
+    <string name="skin_tabbar_icon_more">玩吧</string>
+</resources>
